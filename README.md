@@ -4,3 +4,5 @@ Notes
 - When LED is white = there is not enough light and the led is turned on to brighten it u
 - When LED is not on = there is enough light to be sustained
 - when LED is red = there is too much light and the buzzer will sound
+
+tinkercad link: https://www.tinkercad.com/things/inNe37QRRh2-swanky-bigery/editel?sharecode=z6VNq7euTTRXLXaKA3uwdP5DOLlCoXtdplEM8tP2bbg
